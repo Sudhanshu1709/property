@@ -1,0 +1,37 @@
+
+.inputbox{
+    display: block;
+    margin: 25px;
+    padding: 7px;
+    width: 300px;
+    border: 1px solid skyblue;
+    
+}
+
+.signupButton{
+    display: block;
+    margin: 25px;
+    padding: 7px;
+    width: 200px;
+    margin-left: 68px;
+}
+
+.register1{
+    display: block;
+    width: 208px;
+    margin: 25px;
+    padding: 7px;
+    margin-left: 50px;
+}
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+.validation_message{
+    margin-left: -24%;
+    color: red;
+    display: block;
+    font-size: 14px;
+    margin-top: -3%;
+}

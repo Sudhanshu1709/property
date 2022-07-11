@@ -1,0 +1,34 @@
+input{
+    display: block;
+    margin: 25px;
+    padding: 7px;
+    width: 300px;
+    border: 1px solid skyblue;
+    
+}
+
+.LoginButton{
+    display: block;
+    margin: 25px;
+    padding: 7px;
+    width: 200px;
+    
+}
+.login{
+    margin-left: 30%;
+    margin-top: 5%;
+}
+.register1{
+    display: block;
+    width: 208px;
+    margin: 25px;
+    padding: 7px;
+    margin-left: 50px;
+}
+.validation_message{
+    margin-left: -84%;
+    color: red;
+    display: block;
+    font-size: 14px;
+    margin-top: -3%;
+}
